@@ -1,13 +1,6 @@
 [
   {
     "date": "2026-10-06",
-    "headline": "US Trade Deficit Widens to $105.6 Billion",
-    "image_subject": "Plain gold bars with blank unmarked surfaces, a United States international trade shipping port container terminal, and a single sideways-pointing arrow indicating mixed market conditions.",
-    "link": "https://www.cnbc.com/2026/10/06/trade-deficit-hits-105point6-billion-widest-since-just-before-trump-tariffs-enacted-last-year.html",
-    "alert": false
-  },
-  {
-    "date": "2026-10-06",
     "headline": "S&P 500 Hits New Highs as Falling Oil Prices Ease Inflation",
     "image_subject": "Plain gold bars with blank unmarked surfaces, a stock exchange financial building facade, and a single sideways-pointing arrow indicating mixed market conditions.",
     "link": "https://www.fool.com/coverage/stock-market-today/2026/10/06/stock-market-midday-oct-6-s-and-p-500-sets-new-high-nuclear-stocks-surge/?.tsrc=rss",
@@ -835,5 +828,12 @@
     "image_subject": "Plain gold bars with blank unmarked surfaces, the Federal Reserve building facade alongside a United States dollar banknote, and a single downward-pointing arrow indicating bearish market pressure.",
     "link": "https://finance.yahoo.com/markets/commodities/articles/gold-falls-below-3-900-021343440.html?.tsrc=rss",
     "alert": true
+  },
+  {
+    "date": "2026-11-16",
+    "headline": "University Hoards Bitcoin and Boosts Gold Bet",
+    "image_subject": "Plain gold bars with blank unmarked surfaces beside a digital cryptocurrency token graphic and an institutional university building facade, accompanied by a single upward-pointing arrow indicating bullish safe-haven momentum.",
+    "link": "https://www.thestreet.com/crypto/markets/this-390-year-old-university-is-quietly-betting-big-on-bitcoin-and-gold?.tsrc=rss",
+    "alert": false
   }
 ]
