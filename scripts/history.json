@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-10-07",
-    "headline": "FOMC Meeting Minutes Await Gold Traders",
-    "image_subject": "A collage illustration featuring a wall calendar, an alarm clock, plain gold bars with blank unmarked surfaces, a US dollar banknote, the Federal Reserve building, and a zigzag line showing volatility instead of an arrow.",
-    "link": "calendar:2026-10-07"
-  },
-  {
     "date": "2026-10-14",
     "headline": "IMF Warns Bond Yields Could Spike as Risks Worsen",
     "image_subject": "Plain gold bars with blank unmarked surfaces, the International Monetary Fund headquarters building facade, and a single sideways-pointing arrow indicating mixed market conditions.",
@@ -834,6 +828,13 @@
     "headline": "Gold and Silver Prices Slide to One-Year Lows",
     "image_subject": "Plain gold bars with blank unmarked surfaces, a United States dollar banknote alongside a single downward-pointing arrow indicating bearish market pressure.",
     "link": "https://www.euronews.com/2026/11/17/why-gold-and-silver-prices-have-fallen-to-their-lowest-in-over-a-year?.tsrc=rss",
+    "alert": true
+  },
+  {
+    "date": "2026-11-17",
+    "headline": "St. Louis Fed's Musalem Warns of Potential Rate Hikes",
+    "image_subject": "Plain gold bars with blank unmarked surfaces, the Federal Reserve building facade alongside a United States dollar banknote and a single downward-pointing arrow indicating bearish market pressure.",
+    "link": "https://www.cnbc.com/2026/11/17/alberto-musalem-fed-interest-rates.html",
     "alert": true
   }
 ]
