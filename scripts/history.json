@@ -1,13 +1,6 @@
 [
   {
     "date": "2026-10-06",
-    "headline": "Black Sea Drone Attack Sinks Ship Amid Rising Regional Tensions",
-    "image_subject": "Plain gold bars with blank unmarked surfaces, a dark stormy sea with a shipping vessel silhouette and a drone above, and a single upward-pointing arrow representing rising market value.",
-    "link": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss",
-    "alert": true
-  },
-  {
-    "date": "2026-10-06",
     "headline": "Advisors Flag Structural Market Risks as Stocks Hit Records",
     "image_subject": "Plain gold bars with blank unmarked surfaces, a modern stock market exchange building facade displaying record trading levels, and a single upward-pointing arrow representing rising market value.",
     "link": "https://www.thestreet.com/video/market-risks-are-building-how-to-prepare-for-next-pullback?.tsrc=rss",
@@ -835,5 +828,12 @@
     "image_subject": "Plain gold bars with blank unmarked surfaces beside a large open pit industrial mining extraction facility and heavy excavating machinery, accompanied by a single horizontal sideways-pointing arrow indicating mixed market conditions.",
     "link": "https://finance.yahoo.com/markets/stocks/articles/orezone-revenue-more-triples-record-225609453.html?.tsrc=rss",
     "alert": false
+  },
+  {
+    "date": "2026-11-17",
+    "headline": "Fed Rate Hike Bets Hit Gold, Bitcoin, and Stocks",
+    "image_subject": "Plain gold bars with blank unmarked surfaces, the Federal Reserve building facade alongside a digital cryptocurrency token graphic and a single downward-pointing arrow indicating bearish market pressure.",
+    "link": "https://beincrypto.com/crypto-crash-fed-rate-hike-bets/?.tsrc=rss",
+    "alert": true
   }
 ]
