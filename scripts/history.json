@@ -1,13 +1,6 @@
 [
   {
     "date": "2026-10-06",
-    "headline": "Advisors Flag Structural Market Risks as Stocks Hit Records",
-    "image_subject": "Plain gold bars with blank unmarked surfaces, a modern stock market exchange building facade displaying record trading levels, and a single upward-pointing arrow representing rising market value.",
-    "link": "https://www.thestreet.com/video/market-risks-are-building-how-to-prepare-for-next-pullback?.tsrc=rss",
-    "alert": true
-  },
-  {
-    "date": "2026-10-06",
     "headline": "Jim Cramer Sees Major Gold Move After Brutal Plunge",
     "image_subject": "Plain gold bars with blank unmarked surfaces, a large financial market sentiment analysis chart symbol sculpture, and a single sideways-pointing arrow indicating mixed market conditions.",
     "link": "https://www.thestreet.com/investing/jim-cramer-sees-gold-rebound?.tsrc=rss",
@@ -834,6 +827,13 @@
     "headline": "Fed Rate Hike Bets Hit Gold, Bitcoin, and Stocks",
     "image_subject": "Plain gold bars with blank unmarked surfaces, the Federal Reserve building facade alongside a digital cryptocurrency token graphic and a single downward-pointing arrow indicating bearish market pressure.",
     "link": "https://beincrypto.com/crypto-crash-fed-rate-hike-bets/?.tsrc=rss",
+    "alert": true
+  },
+  {
+    "date": "2026-11-17",
+    "headline": "Gold Rebounds Toward $3,900 Amid Precious Metals Recovery",
+    "image_subject": "Plain gold bars with blank unmarked surfaces, the Federal Reserve building facade alongside a United States dollar banknote and a single upward-pointing arrow indicating bullish market momentum.",
+    "link": "https://finance.yahoo.com/markets/commodities/articles/gold-hovers-near-14-month-020906633.html?.tsrc=rss",
     "alert": true
   }
 ]
