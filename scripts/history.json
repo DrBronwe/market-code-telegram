@@ -1,13 +1,6 @@
 [
   {
     "date": "2026-10-14",
-    "headline": "Gold Pauses Slide Near $4,155 on Fed Policy Signals",
-    "image_subject": "Plain gold bars with blank unmarked surfaces, US dollar banknotes arranged beside a balanced mechanical scale, and a single sideways-pointing arrow indicating mixed market conditions.",
-    "link": "https://finance.yahoo.com/markets/commodities/articles/gold-holds-two-day-slide-021307475.html?.tsrc=rss",
-    "alert": true
-  },
-  {
-    "date": "2026-10-14",
     "headline": "US CPI Ahead: Gold Faces Crucial Inflation Test",
     "image_subject": "A collage illustration featuring an alarm clock, plain gold bars with blank unmarked surfaces, the Federal Reserve building facade, and a sharp dynamic zigzag line representing market volatility.",
     "link": "calendar:2026-10-14"
@@ -835,6 +828,13 @@
     "headline": "Gold Falls Below $3,800 Approaching 14-Month Lows",
     "image_subject": "Plain gold bars with blank unmarked surfaces, a heavy steel bank vault door standing slightly ajar, and a single downward-pointing arrow indicating bearish market pressure.",
     "link": "https://finance.yahoo.com/markets/commodities/articles/gold-falls-toward-3-800-014150756.html?.tsrc=rss",
+    "alert": true
+  },
+  {
+    "date": "2026-11-18",
+    "headline": "Gold Slides Below $3,800 on Fed Hike Bets and Strong Dollar",
+    "image_subject": "Plain gold bars with blank unmarked surfaces, the Federal Reserve building facade alongside a United States dollar banknote, and a single downward-pointing arrow indicating bearish market pressure.",
+    "link": "https://247wallst.com/investing/2026/11/18/gold-is-at-a-14-month-low-as-traders-bet-on-more-fed-hikes/?.tsrc=rss",
     "alert": true
   }
 ]
