@@ -1,13 +1,6 @@
 [
   {
     "date": "2026-10-14",
-    "headline": "IMF Warns Bond Yields Could Spike as Risks Worsen",
-    "image_subject": "Plain gold bars with blank unmarked surfaces, the International Monetary Fund headquarters building facade, and a single sideways-pointing arrow indicating mixed market conditions.",
-    "link": "https://www.cnbc.com/2026/10/13/treasury-yields-imf-debt-inflation-.html",
-    "alert": false
-  },
-  {
-    "date": "2026-10-14",
     "headline": "Gold Pauses Slide Near $4,155 on Fed Policy Signals",
     "image_subject": "Plain gold bars with blank unmarked surfaces, US dollar banknotes arranged beside a balanced mechanical scale, and a single sideways-pointing arrow indicating mixed market conditions.",
     "link": "https://finance.yahoo.com/markets/commodities/articles/gold-holds-two-day-slide-021307475.html?.tsrc=rss",
@@ -835,6 +828,13 @@
     "headline": "St. Louis Fed's Musalem Warns of Potential Rate Hikes",
     "image_subject": "Plain gold bars with blank unmarked surfaces, the Federal Reserve building facade alongside a United States dollar banknote and a single downward-pointing arrow indicating bearish market pressure.",
     "link": "https://www.cnbc.com/2026/11/17/alberto-musalem-fed-interest-rates.html",
+    "alert": true
+  },
+  {
+    "date": "2026-11-18",
+    "headline": "Gold Falls Below $3,800 Approaching 14-Month Lows",
+    "image_subject": "Plain gold bars with blank unmarked surfaces, a heavy steel bank vault door standing slightly ajar, and a single downward-pointing arrow indicating bearish market pressure.",
+    "link": "https://finance.yahoo.com/markets/commodities/articles/gold-falls-toward-3-800-014150756.html?.tsrc=rss",
     "alert": true
   }
 ]
