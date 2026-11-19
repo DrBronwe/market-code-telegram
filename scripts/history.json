@@ -1,13 +1,6 @@
 [
   {
     "date": "2026-10-14",
-    "headline": "Fed’s Williams Sees 2026 Hike but No 2027 Increases",
-    "image_subject": "Plain gold bars with blank unmarked surfaces, an official central bank press conference podium with microphones, and a single sideways-pointing arrow indicating mixed market conditions.",
-    "link": "https://www.cnbc.com/2026/10/13/john-williams-fed-rate-hikes-2027.html",
-    "alert": true
-  },
-  {
-    "date": "2026-10-14",
     "headline": "US Inflation Surges to 3.7%, Pressuring Precious Metals",
     "image_subject": "Plain gold bars with blank unmarked surfaces, a United States federal reserve monetary policy building, and a single downward-pointing arrow representing sinking prices.",
     "link": "https://beincrypto.com/us-cpi-september-bitcoin-gold-fed/?.tsrc=rss",
@@ -836,6 +829,13 @@
     "headline": "Gold Slides Below $3,800 on Fed Hike Bets and Strong Dollar",
     "image_subject": "Plain gold bars with blank unmarked surfaces, the Federal Reserve building facade alongside a United States dollar banknote, and a single downward-pointing arrow indicating bearish market pressure.",
     "link": "https://finance.yahoo.com/markets/stocks/articles/newmont-stocks-fall-5-13-170805714.html?.tsrc=rss",
+    "alert": true
+  },
+  {
+    "date": "2026-11-19",
+    "headline": "Gold Plunges to 14-Month Low Amid Hawkish Fed Expectations",
+    "image_subject": "Plain gold bars with blank unmarked surfaces, the Federal Reserve building facade alongside a United States dollar banknote, and a single downward-pointing arrow indicating bearish market pressure.",
+    "link": "https://finance.yahoo.com/markets/commodities/articles/heres-why-long-term-investors-141200018.html?.tsrc=rss",
     "alert": true
   }
 ]
