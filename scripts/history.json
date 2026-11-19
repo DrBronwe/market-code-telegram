@@ -1,13 +1,6 @@
 [
   {
     "date": "2026-10-14",
-    "headline": "US Inflation Surges to 3.7%, Pressuring Precious Metals",
-    "image_subject": "Plain gold bars with blank unmarked surfaces, a United States federal reserve monetary policy building, and a single downward-pointing arrow representing sinking prices.",
-    "link": "https://beincrypto.com/us-cpi-september-bitcoin-gold-fed/?.tsrc=rss",
-    "alert": true
-  },
-  {
-    "date": "2026-10-14",
     "headline": "Hot Inflation Lifts Fed Rate-Hike Bets and Pressures Treasuries",
     "image_subject": "Plain gold bars with blank unmarked surfaces, a United States federal reserve monetary policy building, and a single upward-pointing arrow representing rising market value.",
     "link": "https://finance.yahoo.com/video/hot-inflation-lifts-fed-rate-151431113.html?.tsrc=rss",
@@ -836,6 +829,13 @@
     "headline": "Gold Plunges to 14-Month Low Amid Hawkish Fed Expectations",
     "image_subject": "Plain gold bars with blank unmarked surfaces, the Federal Reserve building facade alongside a United States dollar banknote, and a single downward-pointing arrow indicating bearish market pressure.",
     "link": "https://finance.yahoo.com/markets/commodities/articles/heres-why-long-term-investors-141200018.html?.tsrc=rss",
+    "alert": true
+  },
+  {
+    "date": "2026-11-19",
+    "headline": "Waller Signals Fed May Need Half-Point Rate Hike Shock",
+    "image_subject": "Plain gold bars with blank unmarked surfaces, an empty wooden speaker podium bearing a press microphone inside an official institution hall, and a single downward-pointing arrow indicating bearish market pressure.",
+    "link": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
     "alert": true
   }
 ]
