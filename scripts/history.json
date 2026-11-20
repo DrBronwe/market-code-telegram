@@ -1,13 +1,6 @@
 [
   {
     "date": "2026-10-15",
-    "headline": "Gold Rebounds as Dollar and Treasury Yields Soften",
-    "image_subject": "Plain gold bars with blank unmarked surfaces, stacked government bond certificates alongside a stylized currency exchange emblem, and a single upward-pointing arrow representing rising market value.",
-    "link": "https://investorshub.advfn.com/market-news/article/38077/gold-prices-rebound-as-dollar-and-treasury-yields-ease-despite-higher-us-inflation?.tsrc=rss",
-    "alert": true
-  },
-  {
-    "date": "2026-10-15",
     "headline": "Central Bank Buying and Record ETF Inflows Support Gold",
     "image_subject": "Plain gold bars with blank unmarked surfaces, a grand central bank vault door opening beside an exchange-traded fund certificate symbol, and a single upward-pointing arrow representing rising market value.",
     "link": "https://finance.yahoo.com/markets/commodities/articles/zacks-analyst-blog-highlights-gld-114000046.html?.tsrc=rss",
@@ -837,6 +830,13 @@
     "headline": "Gold Plunges Nearly 9% on Fed Rate Fears",
     "image_subject": "Plain gold bars with blank unmarked surfaces beside a computer monitor displaying a downward trendline chart, accompanied by a single downward-pointing arrow indicating bearish market pressure.",
     "link": "https://www.ibtimes.com/gold-weekly-loss-rate-hike-ai-stock-selloff-3810021?.tsrc=rss",
+    "alert": true
+  },
+  {
+    "date": "2026-11-20",
+    "headline": "Central Bank Buying Cushions Gold Amid Fed Rate Hike Pressures",
+    "image_subject": "Plain gold bars with blank unmarked surfaces, the Federal Reserve building facade alongside a United States dollar banknote and a single horizontal sideways-pointing arrow indicating mixed market conditions.",
+    "link": "https://www.proactiveinvestors.com/companies/news/1102205/frank-talk-why-central-bank-buying-is-keeping-gold-afloat-as-more-fed-hikes-are-expected-1102205.html?.tsrc=rss",
     "alert": true
   }
 ]

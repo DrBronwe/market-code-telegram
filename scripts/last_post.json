@@ -1,11 +1,11 @@
 [
   {
-    "headline": "Gold Plunges Nearly 9% on Fed Rate Fears",
-    "teaser": "Gold tumbled toward $3,513 per ounce in its sharpest weekly slide since March. Widespread equity liquidation and shifting Federal Reserve policy expectations are exerting heavy downward pressure on XAU/USD.",
-    "headline_km": "មាសធ្លាក់ចុះជិត 9% ដោយសារការព្រួយបារម្ភពី Fed",
-    "teaser_km": "តម្លៃមាសបានធ្លាក់ចុះជិត 9% ក្នុងសប្តាហ៍ដ៏អាក្រក់បំផុតគិតចាប់តាំងពីខែមីនា ដោយធ្លាក់ដល់ $3,513 ក្នុងមួយអោន។ ការវាយតម្លៃឡើងវិញលើជំហានបន្ទាប់របស់ Fed និងការលក់ចេញភាគហ៊ុន AI កំពុងដាក់សម្ពាធលើ XAU/USD។",
-    "impact": "bearish",
-    "url": "https://e11lab-projects.github.io/market-code-telegram/news/2026-11-20-gold-plunges-nearly-9-on-fed-rate-fears.html",
-    "image_path": "../docs/news/2026-11-20-gold-plunges-nearly-9-on-fed-rate-fears.jpg"
+    "headline": "Central Bank Buying Cushions Gold Amid Fed Rate Hike Pressures",
+    "teaser": "Persistent central bank purchases are helping support gold as the precious metal retreats from record highs due to inflation, a stronger US dollar, and expectations of further Federal Reserve rate hikes. This ongoing institutional demand acts as a crucial floor for the market during broader macro weakness.",
+    "headline_km": "ការទិញរបស់ធនាគារកណ្តាលជួយទប់តម្លៃមាសចំពេលមានការរំពឹងទុកលើការតំឡើងអត្រាការប្រាក់ពី Fed",
+    "teaser_km": "ការទញិមាសជាបន្តបន្ទាប់ពីសំណាក់ធនាគារកណ្តាលកំពុងជួយគាំទ្រតម្លៃមាស ទោះបីជាតម្លៃបានធ្លាក់ចុះពីកម្រិតខ្ពស់បំផុតដោយសារអតិផរណា ដុល្លារអាមេរិកខ្លាំង និងការរំពឹងទុកលើការដំឡើងអត្រាការប្រាក់ពី Fed ក៏ដោយ។ តម្រូវការជាស្ថាប័ននេះដើរតួនាទីយ៉ាងសំខាន់ក្នុងការរក្សាលំនឹងទីផ្សារក្នុងអំឡុងពេលមានភាពទន់ខ្សោយផ្នែកម៉ាក្រូសេដ្ឋកិច្ច។",
+    "impact": "mixed",
+    "url": "https://e11lab-projects.github.io/market-code-telegram/news/2026-11-20-central-bank-buying-cushions-gold-amid-fed-rate-hike-pressures.html",
+    "image_path": "../docs/news/2026-11-20-central-bank-buying-cushions-gold-amid-fed-rate-hike-pressures.jpg"
   }
 ]
