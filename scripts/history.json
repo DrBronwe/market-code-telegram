@@ -1,12 +1,6 @@
 [
   {
     "date": "2026-10-15",
-    "headline": "US PPI and Retail Sales Ahead: Key Watch for Gold",
-    "image_subject": "A collage illustration featuring an alarm clock, plain gold bars with blank unmarked surfaces, the Federal Reserve building facade, and a sharp zigzag line cutting across to represent market volatility.",
-    "link": "calendar:2026-10-15"
-  },
-  {
-    "date": "2026-10-15",
     "headline": "Gold Rebounds as Dollar and Treasury Yields Soften",
     "image_subject": "Plain gold bars with blank unmarked surfaces, stacked government bond certificates alongside a stylized currency exchange emblem, and a single upward-pointing arrow representing rising market value.",
     "link": "https://investorshub.advfn.com/market-news/article/38077/gold-prices-rebound-as-dollar-and-treasury-yields-ease-despite-higher-us-inflation?.tsrc=rss",
@@ -836,6 +830,13 @@
     "headline": "Gold Slides Below $3,600 as Yields and Dollar Surge",
     "image_subject": "Plain gold bars with blank unmarked surfaces, the Federal Reserve building facade alongside a United States dollar banknote and a single downward-pointing arrow indicating bearish market pressure.",
     "link": "https://finance.yahoo.com/markets/commodities/articles/gold-miners-near-yearly-lows-155220307.html?.tsrc=rss",
+    "alert": true
+  },
+  {
+    "date": "2026-11-20",
+    "headline": "Gold Plunges Nearly 9% on Fed Rate Fears",
+    "image_subject": "Plain gold bars with blank unmarked surfaces beside a computer monitor displaying a downward trendline chart, accompanied by a single downward-pointing arrow indicating bearish market pressure.",
+    "link": "https://www.ibtimes.com/gold-weekly-loss-rate-hike-ai-stock-selloff-3810021?.tsrc=rss",
     "alert": true
   }
 ]
