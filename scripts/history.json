@@ -1,13 +1,6 @@
 [
   {
     "date": "2026-10-15",
-    "headline": "Container Ship Sinks in Strait of Hormuz After Projectile Strike",
-    "image_subject": "Plain gold bars with blank unmarked surfaces, a marine navigation lighthouse set against a narrow maritime sea strait, and a single upward-pointing arrow representing rising market value.",
-    "link": "https://www.bbc.co.uk/news/articles/crkg7q97z078o?at_medium=RSS&at_campaign=rss",
-    "alert": true
-  },
-  {
-    "date": "2026-10-15",
     "headline": "US PPI and Retail Sales Ahead: Key Watch for Gold",
     "image_subject": "A collage illustration featuring an alarm clock, plain gold bars with blank unmarked surfaces, the Federal Reserve building facade, and a sharp zigzag line cutting across to represent market volatility.",
     "link": "calendar:2026-10-15"
@@ -836,6 +829,13 @@
     "headline": "Trump Meets Putin and Xi as Ukraine War Takes Center Stage",
     "image_subject": "Plain gold bars with blank unmarked surfaces beside a formal diplomatic conference table displaying three empty flag stands, accompanied by a single horizontal sideways-pointing arrow indicating mixed safe-haven sentiment.",
     "link": "https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html",
+    "alert": true
+  },
+  {
+    "date": "2026-11-20",
+    "headline": "Gold Slides Below $3,600 as Yields and Dollar Surge",
+    "image_subject": "Plain gold bars with blank unmarked surfaces, the Federal Reserve building facade alongside a United States dollar banknote and a single downward-pointing arrow indicating bearish market pressure.",
+    "link": "https://finance.yahoo.com/markets/commodities/articles/gold-miners-near-yearly-lows-155220307.html?.tsrc=rss",
     "alert": true
   }
 ]
