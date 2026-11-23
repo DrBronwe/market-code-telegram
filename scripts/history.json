@@ -1,13 +1,6 @@
 [
   {
     "date": "2026-10-15",
-    "headline": "Central Bank Buying and Record ETF Inflows Support Gold",
-    "image_subject": "Plain gold bars with blank unmarked surfaces, a grand central bank vault door opening beside an exchange-traded fund certificate symbol, and a single upward-pointing arrow representing rising market value.",
-    "link": "https://finance.yahoo.com/markets/commodities/articles/zacks-analyst-blog-highlights-gld-114000046.html?.tsrc=rss",
-    "alert": true
-  },
-  {
-    "date": "2026-10-15",
     "headline": "Russia Accuses Ukraine of Refinery Strike as Energy Attacks Resume",
     "image_subject": "Plain gold bars with blank unmarked surfaces, industrial oil refinery towers with cylindrical storage tanks, and a single upward-pointing arrow representing rising market value.",
     "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
@@ -837,6 +830,13 @@
     "headline": "Central Bank Buying Cushions Gold Amid Fed Rate Hike Pressures",
     "image_subject": "Plain gold bars with blank unmarked surfaces, the Federal Reserve building facade alongside a United States dollar banknote and a single horizontal sideways-pointing arrow indicating mixed market conditions.",
     "link": "https://www.proactiveinvestors.com/companies/news/1102205/frank-talk-why-central-bank-buying-is-keeping-gold-afloat-as-more-fed-hikes-are-expected-1102205.html?.tsrc=rss",
+    "alert": true
+  },
+  {
+    "date": "2026-11-23",
+    "headline": "Gold Rebounds as Traders Scale Back Fed Rate Hike Bets",
+    "image_subject": "Plain gold bars with blank unmarked surfaces, the Federal Reserve building facade alongside a single upward-pointing arrow indicating bullish market momentum.",
+    "link": "https://finance.yahoo.com/markets/commodities/articles/gold-rebounds-traders-pare-bets-002803539.html?.tsrc=rss",
     "alert": true
   }
 ]
