@@ -1,11 +1,11 @@
 [
   {
-    "headline": "Gold Rebounds as Traders Scale Back Fed Rate Hike Bets",
-    "teaser": "Gold staged a recovery following its largest weekly drop in eight months as market participants reduced expectations for near-term Federal Reserve interest rate hikes. This shift in sentiment helped relieve downward pressure on the precious metal.",
-    "headline_km": "មាសងើបឡើងវិញខណៈអ្នកជួញដោរកាត់បន្ថយការភ្នាល់លើការដំឡើងអត្រាการប្រាក់របស់ Fed",
-    "teaser_km": "មាសបានស្ទុះងើបឡើងវិញបន្ទាប់ពីការធ្លាក់ចុះប្រចាំសប្តាហ៍ដ៏ធំបំផុតក្នុងរយៈពេលប្រាំបីខែ ដោយសារអ្នកចូលរួមទីផ្សារបានកាត់បន្ថយការព្យាករណ៍លើការដំឡើងអត្រាการប្រាក់របស់ Fed ក្នុងពេលដ៏ខ្លីខាងមុខនេះ។ ការផ្លាស់ប្តូរអារម្មណ៍នេះបានជួយកាត់បន្ថយសម្ពាធធ្លាក់ចុះមកលើលោហៈមានតម្លៃនេះ។",
-    "impact": "bullish",
-    "url": "https://e11lab-projects.github.io/market-code-telegram/news/2026-11-23-gold-rebounds-as-traders-scale-back-fed-rate-hike-bets.html",
-    "image_path": "../docs/news/2026-11-23-gold-rebounds-as-traders-scale-back-fed-rate-hike-bets.jpg"
+    "headline": "Fed's Williams Signals Higher Rates Over Time to Curb Inflation",
+    "teaser": "Federal Reserve official John Williams indicated that higher interest rates will likely be needed over time to tackle inflation. This hawkish stance impacts gold by strengthening the US dollar and elevating Treasury yields.",
+    "headline_km": "មន្ត្រី Fed លោក Williams បង្ಳಿញសញ្ញាដំឡើងអត្រាការប្រាក់បន្តិចម្តងៗដើម្បីទប់ស្កាត់អតិផរណា",
+    "teaser_km": "មន្ត្រីធនាគារកណ្តាល Fed លោក John Williams បានបញ្ជាក់ថាអត្រាការប្រាក់ខ្ពស់អាចនឹងចាំបាច់ដើម្បីគ្រប់គ្រងអតិផរណា។ ជំហរនេះប៉ះពាល់ដល់តម្លៃមាសតាមរយៈការសម្រុកទិញដុល្លារអាមេរិកនិងការឡើងថ្លៃទិន្នផលប័ណ្ណបំណុល។",
+    "impact": "bearish",
+    "url": "https://e11lab-projects.github.io/market-code-telegram/news/2026-11-24-fed-s-williams-signals-higher-rates-over-time-to-curb-inflation.html",
+    "image_path": "../docs/news/2026-11-24-fed-s-williams-signals-higher-rates-over-time-to-curb-inflation.jpg"
   }
 ]
