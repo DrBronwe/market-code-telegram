@@ -1,13 +1,6 @@
 [
   {
     "date": "2026-10-15",
-    "headline": "Gold Slides After Hot CPI Report Rattles Markets",
-    "image_subject": "Plain gold bars with blank unmarked surfaces, the Federal Reserve building facade, and a single downward-pointing arrow representing sinking prices.",
-    "link": "https://247wallst.com/investing/2026/10/15/gold-lost-100-an-ounce-in-hours-after-the-inflation-report/?.tsrc=rss",
-    "alert": true
-  },
-  {
-    "date": "2026-10-15",
     "headline": "Hot PPI Sparks Warnings of Imminent Fed Rate Hike",
     "image_subject": "Plain gold bars with blank unmarked surfaces, an industrial factory warehouse with shipping pallets and loading docks, and a single downward-pointing arrow representing sinking prices.",
     "link": "https://www.cnbc.com/2026/10/15/pce-ppi-september-fed-reserve-rate-hike.html",
@@ -837,6 +830,13 @@
     "headline": "Fed's Williams Signals Higher Rates Over Time to Curb Inflation",
     "image_subject": "Plain gold bars with blank unmarked surfaces, the Federal Reserve building facade alongside a United States dollar banknote and a single downward-pointing arrow indicating bearish market pressure.",
     "link": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
+    "alert": true
+  },
+  {
+    "date": "2026-11-24",
+    "headline": "Ukraine Strikes Russian Warship in Libya, Escalating Global Tensions",
+    "image_subject": "Plain gold bars with blank unmarked surfaces, a military naval port coastline map alongside a single upward-pointing arrow indicating bullish market momentum.",
+    "link": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
     "alert": true
   }
 ]
