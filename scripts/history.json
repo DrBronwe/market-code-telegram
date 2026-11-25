@@ -1,12 +1,5 @@
 [
   {
-    "date": "2026-10-17",
-    "headline": "Trump Waives Russia Sanctions as New Law Takes Effect",
-    "image_subject": "Plain gold bars with blank unmarked surfaces, an outline map of Russia alongside a legislative legal decree scroll, and a single sideways-pointing arrow indicating mixed market conditions.",
-    "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-    "alert": true
-  },
-  {
     "date": "2026-10-18",
     "headline": "Treasury Yields Above 5% and $2T Deficit Confront Markets",
     "image_subject": "Plain gold bars with blank unmarked surfaces, the United States Capitol dome representing national fiscal budget deficit pressures, and a single sideways-pointing arrow indicating mixed market conditions.",
@@ -838,5 +831,12 @@
     "image_subject": "Plain gold bars with blank unmarked surfaces beside a stylized consumer shopping cart and clipboard survey document, accompanied by a single downward-pointing arrow indicating bearish market pressure.",
     "link": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
     "alert": false
+  },
+  {
+    "date": "2026-11-25",
+    "headline": "Fed Preferred Inflation Gauge Accelerates to 3.8% in October",
+    "image_subject": "Plain gold bars with blank unmarked surfaces beside an analog circular pressure gauge meter resting on a financial ledger, accompanied by a single downward-pointing arrow indicating bearish market pressure.",
+    "link": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+    "alert": true
   }
 ]
