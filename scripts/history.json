@@ -1,13 +1,6 @@
 [
   {
     "date": "2026-10-18",
-    "headline": "Treasury Yields Above 5% and $2T Deficit Confront Markets",
-    "image_subject": "Plain gold bars with blank unmarked surfaces, the United States Capitol dome representing national fiscal budget deficit pressures, and a single sideways-pointing arrow indicating mixed market conditions.",
-    "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
-    "alert": true
-  },
-  {
-    "date": "2026-10-18",
     "headline": "Gold Slides Toward $4,145 Following Hot US Inflation Data",
     "image_subject": "Plain gold bars with blank unmarked surfaces, an industrial cargo shipping container representing import price pressures, and a single downward-pointing arrow indicating declining market value.",
     "link": "https://beincrypto.com/gold-price-hot-inflation-peter-schiff/?.tsrc=rss",
@@ -837,6 +830,13 @@
     "headline": "Fed Preferred Inflation Gauge Accelerates to 3.8% in October",
     "image_subject": "Plain gold bars with blank unmarked surfaces beside an analog circular pressure gauge meter resting on a financial ledger, accompanied by a single downward-pointing arrow indicating bearish market pressure.",
     "link": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+    "alert": true
+  },
+  {
+    "date": "2026-11-25",
+    "headline": "Gold Plunges 37% From Record High on Rising Yields",
+    "image_subject": "Plain gold bars with blank unmarked surfaces beside paper Treasury bond certificates resting upon an open trading desk, accompanied by a single downward-pointing arrow indicating bearish market pressure.",
+    "link": "https://www.ibtimes.com/gold-plunges-us-inflation-rate-hike-fears-3810194?.tsrc=rss",
     "alert": true
   }
 ]
