@@ -1,12 +1,5 @@
 [
   {
-    "date": "2026-10-18",
-    "headline": "Gold Slides Toward $4,145 Following Hot US Inflation Data",
-    "image_subject": "Plain gold bars with blank unmarked surfaces, an industrial cargo shipping container representing import price pressures, and a single downward-pointing arrow indicating declining market value.",
-    "link": "https://beincrypto.com/gold-price-hot-inflation-peter-schiff/?.tsrc=rss",
-    "alert": true
-  },
-  {
     "date": "2026-10-19",
     "headline": "Gold Rises as Warsh Remarks Ease Fed Hike Bets",
     "image_subject": "Plain gold bars with blank unmarked surfaces, the Federal Reserve building facade, and a single upward-pointing arrow representing rising market value.",
@@ -837,6 +830,13 @@
     "headline": "Gold Plunges 37% From Record High on Rising Yields",
     "image_subject": "Plain gold bars with blank unmarked surfaces beside paper Treasury bond certificates resting upon an open trading desk, accompanied by a single downward-pointing arrow indicating bearish market pressure.",
     "link": "https://www.ibtimes.com/gold-plunges-us-inflation-rate-hike-fears-3810194?.tsrc=rss",
+    "alert": true
+  },
+  {
+    "date": "2026-11-26",
+    "headline": "Spot Gold Slips as Dollar Firms While Futures Gain",
+    "image_subject": "Plain gold bars with blank unmarked surfaces, a United States dollar banknote alongside a single sideways-pointing arrow indicating mixed market conditions.",
+    "link": "https://finance.yahoo.com/markets/commodities/articles/gold-eases-u-inflation-data-035043521.html?.tsrc=rss",
     "alert": true
   }
 ]
