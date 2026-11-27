@@ -1,13 +1,6 @@
 [
   {
     "date": "2026-10-20",
-    "headline": "Gold Drops for Third Day on Oil-Driven Inflation Fears",
-    "image_subject": "Plain gold bars with blank unmarked surfaces, an industrial oil pump jack extraction unit, and a single downward-pointing arrow representing sinking prices.",
-    "link": "https://finance.yahoo.com/economy/policy/articles/gold-dips-oil-prices-fuel-030209379.html?.tsrc=rss",
-    "alert": true
-  },
-  {
-    "date": "2026-10-20",
     "headline": "Investors Direct $500 Million into Low-Cost Gold Fund",
     "image_subject": "Plain gold bars with blank unmarked surfaces, an open financial portfolio ledger beside an exchange-traded fund certificate folder, and a single upward-pointing arrow indicating market support.",
     "link": "https://247wallst.com/investing/etf/2026/10/19/forget-gld-investors-sent-500-million-to-the-cheaper-spdr-gold-fund/?.tsrc=rss",
@@ -838,5 +831,12 @@
     "image_subject": "Plain gold bars with blank unmarked surfaces beside an industrial mining excavator machine and a single horizontal sideways-pointing arrow indicating mixed market conditions.",
     "link": "https://investorshub.advfn.com/market-news/article/40827/gold-mining-stocks-oversold-market-fear?.tsrc=rss",
     "alert": false
+  },
+  {
+    "date": "2026-11-27",
+    "headline": "S&P 500 Enters Correction as Sell-Off Stirs Market Caution",
+    "image_subject": "Plain gold bars with blank unmarked surfaces beside a downward trending stock market graph screen and a single horizontal sideways-pointing arrow indicating mixed market conditions.",
+    "link": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html",
+    "alert": true
   }
 ]
